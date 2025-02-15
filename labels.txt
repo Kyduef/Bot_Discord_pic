@@ -1,0 +1,4 @@
+0 Botol Plastik
+1 Tas Plastik
+2 Kertas
+3 Bungkus Makanan
